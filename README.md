@@ -1,2 +1,2 @@
 # Exoplanet-Detection
-Exoplanet Detection with Machine Learning
+Streamlit app for detecting exoplanets using machine learning.
